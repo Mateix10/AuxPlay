@@ -24,6 +24,10 @@ For the case I used Fusion 360. The top part of the case along with the motherbo
 
 ![Inside of the case](Assets/Case_In.png)
 
+# Firmware
+
+For the firmware, I am using [airplay-esp32 by rbouteiller](https://github.com/rbouteiller/airplay-esp32).
+
 # BOM
 
 |Product|Count|Cost|Link|
@@ -39,4 +43,6 @@ For the case I used Fusion 360. The top part of the case along with the motherbo
 
 [Fusion 360](https://www.autodesk.com/products/fusion-360/overview) - Designing the case
 
-[sstojos's zynthian miniature project](https://github.com/sstojos/zynthian-miniature) - For The footprint and symbol of the PCM5102A DAC module that I used
+[sstojos's zynthian miniature project](https://github.com/sstojos/zynthian-miniature) - For the footprint and symbol of the PCM5102A DAC module that I used
+
+[airplay-esp32 by rbouteiller](https://github.com/rbouteiller/airplay-esp32) - Firmware
