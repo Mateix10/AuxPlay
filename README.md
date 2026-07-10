@@ -23,7 +23,7 @@ For the case I used Fusion 360. The top part of the case along with the motherbo
 ![Case](Assets/Case.png)
 ![Inside of the case](Assets/Case_In.png)
 
-#BOM
+# BOM
 
 |Product|Count|Cost|Link|
 |--|--|--|--|
