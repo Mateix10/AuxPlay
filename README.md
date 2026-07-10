@@ -21,6 +21,7 @@ For the "brains" I used a older esp32 module because the newer ones don't have c
 For the case I used Fusion 360. The top part of the case along with the motherbolt is screwed in with m2 screws. Preferably, the screws should be long (about 14mm) so it can reach the PCB along with the inserts at the bottom.
 
 ![Case](Assets/Case.png)
+
 ![Inside of the case](Assets/Case_In.png)
 
 # BOM
