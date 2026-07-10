@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "DAC") (type "Legacy") (uri "/Users/matei/Documents/AuxPlay/Stuff/zynthian-miniature-main/libraries/gy-pcm5102.lib") (options "") (descr ""))
+	(lib (name "Jack") (type "KiCad") (uri "/Users/matei/Documents/AuxPlay/Stuff/PJ-320B") (options "") (descr ""))
+)
