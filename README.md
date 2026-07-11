@@ -8,6 +8,10 @@ Note: This DOES NOT include a amplifier, please connect this device to powered s
 
 ![Close up render](3D/Renders/CloseUp4K.png)
 
+# Why?
+
+I always wanted to play music wirelessly to my stereo. It was made in 2001 and it obiouslly does not have Bluetooth or AirPlay, so I decided to make a device that adds that functionality to it.
+
 # Zine
 
 ![Zine](Assets/Zine.jpg)
