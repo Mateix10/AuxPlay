@@ -8,6 +8,10 @@ Note: This DOES NOT include a amplifier, please connect this device to powered s
 
 ![Close up render](3D/Renders/CloseUp4K.png)
 
+# Zine
+
+![Zine](Assets/Zine.jpg)
+
 # Schematic and PCB
 
 For the "brains" I used a older esp32 module because the newer ones don't have classic bluetooth, required for Bluetooth A2DP, aka sound.
@@ -47,3 +51,5 @@ For the firmware, I am using [airplay-esp32 by rbouteiller](https://github.com/r
 [sstojos's zynthian miniature project](https://github.com/sstojos/zynthian-miniature) - For the footprint and symbol of the PCM5102A DAC module that I used
 
 [airplay-esp32 by rbouteiller](https://github.com/rbouteiller/airplay-esp32) - Firmware
+
+[Hackclub Fallout](fallout.hackclub.com)
