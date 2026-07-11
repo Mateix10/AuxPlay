@@ -52,4 +52,4 @@ For the firmware, I am using [airplay-esp32 by rbouteiller](https://github.com/r
 
 [airplay-esp32 by rbouteiller](https://github.com/rbouteiller/airplay-esp32) - Firmware
 
-[Hackclub Fallout](fallout.hackclub.com)
+[Hackclub Fallout](https://fallout.hackclub.com)
