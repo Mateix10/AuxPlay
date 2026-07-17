@@ -20,13 +20,17 @@ I always wanted to play music wirelessly to my stereo. It was made in 2001 and i
 
 For the "brains" I used a older esp32 module because the newer ones don't have classic bluetooth, required for Bluetooth A2DP, aka sound.
 
+For the DAC, I used a PCM-5102 breakout board. Chose it for its sound quality. I used the breakout board for the extra filtering found on there and the ease of soldering it onto the PCB.
+
+The PJ-320B 3.5mm headphone jack is connected through the PCB, using the pins on the DAC breakout board.
+
 ![Schematic](Assets/Schematic.png)
 
 ![PCB](Assets/PCB.png)
 
 # Case
 
-For the case I used Fusion 360. The top part of the case along with the motherbolt is screwed in with m2 screws. Preferably, the screws should be long (about 14mm) so it can reach the PCB along with the inserts at the bottom.
+For the case I used Fusion 360. The top part of the case along with the motherboard is screwed in with m2 screws. Preferably, the screws should be long (about 14mm) so it can reach the PCB along with the inserts at the bottom.
 
 ![Case](Assets/Case.png)
 
@@ -56,4 +60,4 @@ For the firmware, I am using [airplay-esp32 by rbouteiller](https://github.com/r
 
 [airplay-esp32 by rbouteiller](https://github.com/rbouteiller/airplay-esp32) - Firmware
 
-[Hackclub Fallout](https://fallout.hackclub.com)
+[Hackclub Fallout](https://fallout.hackclub.com) - Founding
