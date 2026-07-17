@@ -10,7 +10,7 @@ Note: This DOES NOT include a amplifier, please connect this device to powered s
 
 # Why?
 
-I always wanted to play music wirelessly to my stereo. It was made in 2001 and it obiouslly does not have Bluetooth or AirPlay, so I decided to make a device that adds that functionality to it.
+I always wanted to play music wirelessly to my stereo. It was made in 2001 and it obviously does not have Bluetooth or AirPlay, so I decided to make a device that adds that functionality to it.
 
 # Zine
 
@@ -49,6 +49,8 @@ For the firmware, I am using [airplay-esp32 by rbouteiller](https://github.com/r
 |PJ-320B DIP Headphone Jack|1|$1.14|[Aliexpress](https://www.aliexpress.com/item/1005002436653862.html?spm=a2g0o.productlist.main.2.7c2f625aUkUTXv&algo_pvid=d1fdaacd-bc8b-40f6-9c8e-081c59262c6e&algo_exp_id=d1fdaacd-bc8b-40f6-9c8e-081c59262c6e-1&pdp_ext_f=%7B%22order%22%3A%2222%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%211.14%211.14%21%21%211.14%211.14%21%402103867617836015596551588e8313%2112000020655545215%21sea%21RO%216479752192%21X%211%210%21n_tag%3A-29919%3Bd%3Ae8b90e1%3Bm03_new_user%3A-29895&curPageLogUid=Cehayrqnawqp&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005002436653862%7C_p_origin_prod%3A#nav-specification)
 |Screws|1|$7.43|[Aliexpress](https://www.aliexpress.com/item/4000038065691.html?spm=a2g0o.productlist.main.2.4fadfc50T7ugPD&algo_pvid=18ba3291-ada3-4acc-b2ab-eb325b1662f7&algo_exp_id=18ba3291-ada3-4acc-b2ab-eb325b1662f7-1&pdp_ext_f=%7B%22order%22%3A%225087%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%217.13%217.13%21%21%217.13%217.13%21%40210385db17836340050081368efa4c%2112000031580335588%21sea%21RO%216479752192%21X%211%210%21n_tag%3A-29919%3Bd%3Ae8b90e1%3Bm03_new_user%3A-29895&curPageLogUid=T9XwEPeDqjrQ&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A4000038065691%7C_p_origin_prod%3A)
 |PCB|1|$2|[JLCPCB](https://jlcpcb.com/)
+|Shipping + Tax||$36.65||
+|TOTAL||67.83||
 
 # Credits
 
